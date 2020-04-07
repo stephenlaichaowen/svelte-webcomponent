@@ -1,4 +1,6 @@
-## How to create a web component with svelte-component-template
+## Svelte WebComponent Template
+
+### How to create a web component with svelte
 
 First we create svelte project that specifically made for web component
 ```
@@ -23,6 +25,7 @@ In order to tell svelte this is a web component, we add this code to `rollup.con
 ```
 plugins: [
   svelte({ customElement: true }),
+]
 ```
 
 Then install all the dependencies

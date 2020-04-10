@@ -1,4 +1,4 @@
-## Web Component Builder Powered by Sevlete
+## Build Web Component with Sevlete
 
 ### How to create a web component with svelte
 
